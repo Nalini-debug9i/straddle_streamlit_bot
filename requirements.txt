@@ -1,5 +1,5 @@
 streamlit
 pandas
-python-dotenv
-upstox-python
+python
+upstox
 schedule
