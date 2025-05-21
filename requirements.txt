@@ -1,6 +1,5 @@
 streamlit
 pandas
-upstox-python
 schedule
 requests
 
