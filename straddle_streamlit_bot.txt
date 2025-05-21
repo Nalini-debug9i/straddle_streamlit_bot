@@ -1,6 +1,0 @@
-straddle_streamlit_bot/
-├── app.py                # Your main Streamlit app
-├── trade_logic.py        # The strategy logic
-├── upstox_utils.py       # Upstox API helper code
-├── backtest.py           # Optional backtest feature
-├── requirements.txt      # List of libraries your app needs

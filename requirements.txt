@@ -1,4 +1,5 @@
-streamlit       
-upstox 
-pandas           
-requests
+streamlit
+pandas
+python-dotenv
+upstox-python
+schedule
