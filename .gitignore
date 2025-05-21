@@ -1,0 +1,4 @@
+config.env
+trade_log.csv
+.env
+__pycache__/
